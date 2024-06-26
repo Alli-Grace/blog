@@ -1,5 +1,5 @@
 h1 a, h2 a{
-    color: rgb(207, 76, 10);
+    color: rgb(195, 55, 9);
 }
 
 body {
@@ -7,10 +7,10 @@ body {
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: rgb(195, 55, 9);
     margin-top: 0;
     margin-bottom: 40px;
-    padding: 20px 20px 20px 40px;
+    padding: 30px 20px 20px 40px;
 }
 
 .page-header h1,
@@ -68,13 +68,13 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: rgb(195, 55, 9);
     background: none;
-    border-color: #C25100;
+    border-color: rgb(195, 55, 9);
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: rgb(195, 55, 9);
 }
 
